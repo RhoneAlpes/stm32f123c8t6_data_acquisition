@@ -1,6 +1,11 @@
-# stm32f123c8t6_data_acquisition
+More info in french:
+http://microcontroleurs.blogspot.fr/2015/07/realisation-dune-carte-dacquisition.html
 
-The program stm32f123c8t6.ino is for the Arduino IDE 1.5.7 + the library Arduino_STM32-master
+The first release - july 26, 2015
+
+# stm32f123c8t6_data_acq
+
+The program stm32f123c8t6_data_acq_v01.ino is for the Arduino IDE 1.5.7 + the library Arduino_STM32-master
 
 # DisplayGraph
 
